@@ -1,7 +1,7 @@
 ###
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FDA5A5,100:4D0080&height=400&text=Welcome!&fontColor=FFDCEF&animation=fadeIn&fontSize=50&fontAlign=85)
 
-
+<!--
 
 # Profile
 
@@ -17,7 +17,7 @@
 ![Sunjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunjung1031&show_icons=true&theme=material-palenight)
 
 
-
+-->
 
 <!--
 **Sunjung1031/Sunjung1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
