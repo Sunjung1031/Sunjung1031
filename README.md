@@ -1,5 +1,10 @@
-### Hi there 👋
+###
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FDA5A5,100:4D0080&height=200&text=Welcome!&fontColor=FFDCEF&animation=fadeIn&fontSize=50&fontAlign=85)
+![Sunjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunjung1031&show_icons=true&theme=material-palenight)
 
+<!-- [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]
+ [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black)](github.com/Sunjung1031/TODO-List)
+-->
 <!--
 **Sunjung1031/Sunjung1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
